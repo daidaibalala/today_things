@@ -346,7 +346,7 @@ function HomePage() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/today_things">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/love" element={<LovePage />} />
