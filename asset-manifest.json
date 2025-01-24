@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/today_things/static/css/main.7d2a4408.css",
+    "main.js": "/today_things/static/js/main.c0c7b9d9.js",
+    "static/js/453.59e15b8d.chunk.js": "/today_things/static/js/453.59e15b8d.chunk.js",
+    "static/media/logo.svg": "/today_things/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/today_things/index.html",
+    "main.7d2a4408.css.map": "/today_things/static/css/main.7d2a4408.css.map",
+    "main.c0c7b9d9.js.map": "/today_things/static/js/main.c0c7b9d9.js.map",
+    "453.59e15b8d.chunk.js.map": "/today_things/static/js/453.59e15b8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2a4408.css",
+    "static/js/main.c0c7b9d9.js"
+  ]
+}
